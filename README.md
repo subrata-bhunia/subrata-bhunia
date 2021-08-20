@@ -44,6 +44,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 <!-- links to social media icons -->
 <!-- How to reach me -->
+##
 <div align="center" style="text-align:center,margin-top:50px">
     <a href="mailto:jgracia9988@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
