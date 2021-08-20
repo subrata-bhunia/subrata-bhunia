@@ -16,11 +16,12 @@ My name is Subrata Bhunia and I'm a software developer/DevOps engineer. I'm from
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 
 
-## &#x270d; Blog & Writing
+## &#x270d; **Blog & Writing**
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [subrata.website](https://subrata.website/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -35,22 +36,37 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-<div align="center" style="text-align:center;flex-direction:row;">
-<a href="https://github.com/subrata-bhunia/subrata-bhunia">
-  <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-bhunia&theme=monokai&langs_count=3&show_icons=true" />
-</a>
- </div>
+### SKILLS 
+![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![l](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![l](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![l](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![l](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![l](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+
+##  &#x1f4c8; **Languages**
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata-bhunia&show_icons=true&locale=en&layout=compact&theme=radical" alt="Subrata" />
  
  ## **💻 Some Project**
-<div style="height:"49%";">
+ 
+<div>
   <a href="https://github.com/subrata-bhunia/python-project-blueprint">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=react-native-dark-mode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/subrata-bhunia/go-project-blueprint">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=online-currier-system-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-  </div>
+</div>
 <!-- links to social media icons -->
 
 <!-- Status -->
@@ -66,10 +82,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata-bhunia&theme=monokai"
             alt="Subrata's Github commit streak">
     </a>
-    <a href="https://wakatime.com/@subrata-bhunia/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=subrata-bhunia&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+<!--     <a href="https://wakatime.com/@subrata_bhunia/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=subrata_bhunia&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="Subrata's wakatime last year stats">
-    </a>
+    </a> -->
 </div>
 
 <!-- How to reach me -->
@@ -79,33 +95,33 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 <div align="center" style="text-align:center">
-    <a href="mailto:jgracia9988@gmail.com">
+    <a href="mailto:contact.sbhunia@gmail">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Josee9988's Gmail">
+            alt="Subrata's Gmail">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="Josee9988's StackOverflow">
+            alt="Subrata's StackOverflow">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
-            alt="Josee9988's Wakatime">
+            alt="Subrata's Wakatime">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="Josee9988's CodersRank">
+            alt="Subrata's CodersRank">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Josee9988's LinkedIn">
+            alt="Subrata's LinkedIn">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
-            alt="Josee9988's octolife">
+            alt="Subrata's octolife">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Josee9988's dev.to">
+            alt="Subrata's dev.to">
     </a>
 </div>
 
@@ -123,11 +139,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/contact_subrata
 [2]: https://github.com/subrata-bhunia
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/contact-subrata/
 
+##
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
