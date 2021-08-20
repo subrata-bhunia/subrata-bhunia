@@ -26,25 +26,47 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
+<div align="center" style="text-align:center;flex-direction:row;">
 <a href="https://github.com/subrata-bhunia/subrata-bhunia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-bhunia&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-bhunia&theme=monokai&langs_count=3&show_icons=true" />
 </a>
-<a href="https://github.com/subrata-bhunia/subrata-bhunia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subrata-bhunia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<div style="height:"49%";">
+  <a href="https://github.com/subrata-bhunia/python-project-blueprint">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=react-native-dark-mode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<a href="https://github.com/subrata-bhunia/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=react-native-dark-mode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 <a href="https://github.com/subrata-bhunia/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=online-currier-system-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=online-currier-system-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+  </div>
+
+</div>
 <!-- links to social media icons -->
+
+<!-- Status -->
+
+## **📊 Stats**
+
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subrata-bhunia&show_icons=true&theme=monokai&count_private=true"
+            alt="Subrata's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata-bhunia&theme=monokai"
+            alt="Subrata's Github commit streak">
+    </a>
+    <a href="https://wakatime.com/@subrata-bhunia/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=subrata-bhunia&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Subrata's wakatime last year stats">
+    </a>
+</div>
+
 <!-- How to reach me -->
-## How To Reach Me
+
+
+## **📫 How to reach me**
+
+
 <div align="center" style="text-align:center">
     <a href="mailto:jgracia9988@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
