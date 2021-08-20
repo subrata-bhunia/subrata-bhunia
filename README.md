@@ -43,6 +43,37 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=online-currier-system-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!-- links to social media icons -->
+<!-- How to reach me -->
+<div align="center" style="text-align:center">
+    <a href="mailto:jgracia9988@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Josee9988's Gmail">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
+            alt="Josee9988's StackOverflow">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+            alt="Josee9988's Wakatime">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
+            alt="Josee9988's CodersRank">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Josee9988's LinkedIn">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
+            alt="Josee9988's octolife">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+            alt="Josee9988's dev.to">
+    </a>
+</div>
 
 <!-- icons with padding -->
 
