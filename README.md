@@ -6,6 +6,16 @@
 
 My name is Subrata Bhunia and I'm a software developer/DevOps engineer. I'm from Kolkata, living in Medinipur and currently working at Xanther. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+## **😊 About me**
+
+- 🔭 I’m currently working on my engineer's degree.
+- 🌱 I’m learning C and Python.
+- 👯 I’m looking to start a brand-new project/idea.
+- 🤔 I’m looking for help finding a job while I finish up my university degree.
+- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [subrata.website](https://subrata.website/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
@@ -30,6 +40,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/subrata-bhunia/subrata-bhunia">
   <img align="center" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata-bhunia&theme=monokai&langs_count=3&show_icons=true" />
 </a>
+ </div>
+ 
+ ## **💻 Some Project**
 <div style="height:"49%";">
   <a href="https://github.com/subrata-bhunia/python-project-blueprint">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=react-native-dark-mode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -38,8 +51,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subrata-bhunia&repo=online-currier-system-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   </div>
-
-</div>
 <!-- links to social media icons -->
 
 <!-- Status -->
