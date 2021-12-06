@@ -1,5 +1,3 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 [![Header](https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/readme_header1.png "Header")](https://mr-subrata.web.app/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/wave.gif" width="30px">
@@ -144,8 +142,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [3]: https://www.linkedin.com/in/contact-subrata/
 
 ##
+<a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subrata-bhunia&custom_title=Subrata's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
