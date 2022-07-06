@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/readme_header1.png "Header")](https://mr-subrata.web.app/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/wave.gif" width="30px" height="30px">
 
 My name is Subrata Bhunia and I'm a software developer/DevOps engineer. I'm from Kolkata, living in Medinipur and currently working at Xanther. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
