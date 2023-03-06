@@ -2,21 +2,17 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/wave.gif" width="30px" height="30px">
 
-My name is Subrata Bhunia and I'm a software developer/DevOps engineer. I'm from Kolkata, living in Medinipur and currently working at Xanther. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Subrata Bhunia and I'm a software developer/DevOps engineer. I'm from Kolkata, living in Medinipur and currently working at Accenture. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## **😊 About me**
 
-- 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m learning C and Python.
-- 👯 I’m looking to start a brand-new project/idea.
-- 🤔 I’m looking for help finding a job while I finish up my university degree.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+- 🔭 I’m currently working as Custom Enginer.
+- 🌱 I’m learning RPA and .NET.
 
 
 ## &#x270d; **Blog & Writing**
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [subrata.website](https://subrata.website/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Portfolio](https://about.subrata.tech/) as well as on [Medium](https://medium.com/@) and [DEV.to](https://dev.to/@).
 
 ## 🔧 Technologies & Tools
 
@@ -93,7 +89,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 <div align="center" style="text-align:center">
-    <a href="mailto:contact.sbhunia@gmail">
+    <a href="mailto:contact.sbhunia@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Subrata's Gmail">
     </a>
