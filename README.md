@@ -7,7 +7,7 @@ My name is Subrata Bhunia and I'm a software developer. I'm from Kolkata, living
 ## **😊 About me**
 
 - 🔭 I’m currently working as Software Engineer Analyst.
-- Mobile Application Developer(React Navive, Kotlin)
+- Mobile Application Developer(React Native, Kotlin)
 - 🌱 I’m learning RPA and .NET.
 
 
