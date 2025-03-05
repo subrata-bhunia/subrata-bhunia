@@ -2,11 +2,12 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/wave.gif" width="30px" height="30px">
 
-My name is Subrata Bhunia and I'm a software developer/DevOps engineer. I'm from Kolkata, living in Medinipur and currently working at Accenture. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Subrata Bhunia and I'm a software developer. I'm from Kolkata, living in Medinipur and currently working at Accenture. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## **😊 About me**
 
-- 🔭 I’m currently working as Custom Enginer.
+- 🔭 I’m currently working as Software Engineer Analyst.
+- Mobile Application Developer(React Navive, Kotlin)
 - 🌱 I’m learning RPA and .NET.
 
 
