@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/readme_header1.png "Header")](https://mr-subrata.web.app/)
-![](https://komarev.com/ghpvc/?username=subrata-bhunia&abbreviated=false)
+![](https://komarev.com/ghpvc/?username=subrata-bhunia)
 ![](https://hit.yhype.me/github/profile?account_id=69841669)
 # Hello, folks! <img src="https://raw.githubusercontent.com/subrata-bhunia/subrata-bhunia/master/wave.gif" width="30px" height="30px">
 
